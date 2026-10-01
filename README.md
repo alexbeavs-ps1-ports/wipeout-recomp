@@ -63,7 +63,7 @@ The current package is not release-ready. The owned Track 01 identity did not
 match the current Redump digest corpus. BIOS-stage audio is choppy, and FMVs
 are not vertically centered. These gates must close before publication.
 
-Project-owned files use `GPL-3.0-only`. This license does not cover psxrecomp,
+Project-owned files use `PolyForm Noncommercial 1.0.0`. This license does not cover psxrecomp,
 recomp-ui, game data, generated retail code, artwork, names, or trademarks.
 See `THIRD_PARTY_NOTICES.md` for the separate dependency licenses.
 
